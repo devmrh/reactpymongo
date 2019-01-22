@@ -1,0 +1,4 @@
+/node_modules/
+
+# IDEA config files
+.idea/
